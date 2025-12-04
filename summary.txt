@@ -24,6 +24,3 @@ over a 72‑hour period.
 -   Metrics included: Mean, Min, Max, Total kWh per building
 -   These insights help identify high‑usage buildings and potential
     optimization points.
-
-This summary can be used for sustainability reports, dashboards, or
-academic lab submissions.
