@@ -1,0 +1,29 @@
+Summary of Energy Consumption Analysis
+
+This summary provides an overview of the cleaned dataset and key
+findings derived from the energy usage of three buildings (A, B, and C)
+over a 72‑hour period.
+
+1.  Data Overview
+
+-   Total records after cleaning: 216 rows
+-   Buildings monitored: Building A, Building B, Building C
+-   Time range: Hourly readings across 3 days
+
+2.  Key Insights
+
+-   Building B has the highest average consumption across the period.
+-   Building C shows the lowest minimum consumption values, indicating
+    more variability.
+-   Total kWh usage ranks: Building B > Building A > Building C.
+-   Peak hours show a clear upward trend in all three buildings,
+    suggesting daytime operational loads.
+
+3.  Summary Statistics (Overall)
+
+-   Metrics included: Mean, Min, Max, Total kWh per building
+-   These insights help identify high‑usage buildings and potential
+    optimization points.
+
+This summary can be used for sustainability reports, dashboards, or
+academic lab submissions.
